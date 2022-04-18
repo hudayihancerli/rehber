@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cdYyKS+Na+osqrEF+A10YwcMPCaKQ4I35PR5UAk+Muk/cjL/HAGF3gwBZoHxd0WKXaEt4GBrwIZfHfolKIw0vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhuda\\Desktop\\csharp\\phone\\phone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhuda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
